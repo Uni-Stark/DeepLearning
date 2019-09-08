@@ -1,3 +1,3 @@
 ## DeepLearning
 
-Tensorflow¸¦ È°¿ëÇÑ DeepLearning
+Tensorflowë¥¼ ì´ìš©í•œ DeepLearning
